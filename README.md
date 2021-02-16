@@ -5,6 +5,7 @@ Currently there are these notebook:
 - One with the simulated dataset using only the process control values.
 - One with the simulated dataset adding 'velocity' & 'acceleration' of the process control values.
 - One with EDA on the paper machine dataset.
+- One model with a subset of the paper machine data using the most frequent categorical feature subset.
 
 # Business Case
 Identifying an impending process interuption, fault or failure in advance to warn operators to take remedial action, or program the process control system to take a different action than maintaining readings within set point ranges may reduce the number of process interuptions, thus improving production and reducing costs.
