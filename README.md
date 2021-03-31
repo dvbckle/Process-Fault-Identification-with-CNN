@@ -1,6 +1,11 @@
 # Process-Fault-Identification-with-CNN
 This repo has a CNN models created to identify predict / warn of upcoming paper machine faults prior to the condition. Work in this repo began with a simulated process dataset and  CNN models to predict failures. A second simulated dataset notebook adds rate of change of process control values and a second derivative of those values.   
-Paper Machine dataset source is noted in the notebooks.
+Paper Machine dataset source is also listed in the notebooks.
+
+Reference and Licence
+Dataset: Rare Event Classification in Multivariate Time Series
+2018-10-01 Chitta Ranjan, Markku Mustonen, Kamran Paynabar, Karim Pourak
+https://deeplearn.org/arxiv/48599/dataset:-rare-event-classification-in-multivariate-time-series
 
 Currently, notebooks included are:
 - One with the simulated dataset using only the process control values.
