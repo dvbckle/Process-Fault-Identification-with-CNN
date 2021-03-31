@@ -1,7 +1,8 @@
 # Process-Fault-Identification-with-CNN
-This repo has a CNN model created to identify faults in a simulated process dataset.  Recently I added a second notebook using the simulated dataset but also adding rate of change of process control values and a second derivative of those values. I plan to add Notebooks using this methodology to predict sheet breaks in a Paper Machine dataset.  
+This repo has a CNN models created to identify predict / warn of upcoming paper machine faults prior to the condition. Work in this repo began with a simulated process dataset and  CNN models to predict failures. A second simulated dataset notebook adds rate of change of process control values and a second derivative of those values.   
+Paper Machine dataset source is noted in the notebooks.
 
-Currently there are these notebook:
+Currently, notebooks included are:
 - One with the simulated dataset using only the process control values.
 - One with the simulated dataset adding 'velocity' & 'acceleration' of the process control values.
 - One with EDA on the paper machine dataset.
