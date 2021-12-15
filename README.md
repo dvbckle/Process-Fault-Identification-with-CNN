@@ -9,7 +9,8 @@ https://deeplearn.org/arxiv/48599/dataset:-rare-event-classification-in-multivar
 
 Currently, notebooks included are:
 - One with the simulated dataset using only the process control values.
-- One with the simulated dataset adding 'velocity' & 'acceleration' of the process control values.
+- One with the simulated dataset adding 'velocity' & 'acceleration' of the process control values and five warning classes plus normal and faliure classesplus normal and faliure classes.
+- One with the simulated dataset adding 'velocity' & 'acceleration' of the process control values and one warning class plus normal and failure classes
 - One with EDA on the paper machine dataset.
 - Two models with a subset of the paper machine data using the most frequent categorical feature subset.
       - One uses 5 warning classes
