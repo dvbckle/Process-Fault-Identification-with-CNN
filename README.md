@@ -7,6 +7,9 @@ Dataset: Rare Event Classification in Multivariate Time Series
 2018-10-01 Chitta Ranjan, Markku Mustonen, Kamran Paynabar, Karim Pourak
 https://deeplearn.org/arxiv/48599/dataset:-rare-event-classification-in-multivariate-time-series
 
+The dataset license details are shown in the file processminer-rare-event-mts - LICENSE.csv included from the data download site:
+"- users can share the dataset or any publication that uses the data by giving credit to the data provider. Please cite this paper, https://arxiv.org/abs/1809.10717, for the credit."
+
 https://arxiv.org/abs/1809.10717
 
 Currently, notebooks included are:
