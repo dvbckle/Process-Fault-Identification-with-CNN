@@ -7,6 +7,8 @@ Dataset: Rare Event Classification in Multivariate Time Series
 2018-10-01 Chitta Ranjan, Markku Mustonen, Kamran Paynabar, Karim Pourak
 https://deeplearn.org/arxiv/48599/dataset:-rare-event-classification-in-multivariate-time-series
 
+https://arxiv.org/abs/1809.10717
+
 Currently, notebooks included are:
 - One with the simulated dataset using only the process control values.
 - One with the simulated dataset adding 'velocity' & 'acceleration' of the process control values and five warning classes plus normal and faliure classesplus normal and faliure classes.
