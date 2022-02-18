@@ -1,5 +1,5 @@
 # Process-Fault-Identification-with-CNN
-UPDATE:  This repo is updated Feb 2022 with a new Notebook using the Paper Machine daaset. This notebook uses a slightly different CNN model, has some data corrections (apparent mislabelled samples) and a new chart methodology to present the results.
+UPDATE:  This repo is updated Feb 2022 with a new Notebook using the Paper Machine daaset. This notebook uses a slightly different CNN model, has some data corrections (apparent mislabelled samples) and a new chart methodology to present the results.  Notebook:  Paper_Machine_Sheet_Break_Subset96-3Class_w_Dates_Adamax
 
 This repo has a CNN models created to predict / warn of upcoming paper machine faults prior to the condition. Work in this repo began with a simulated process dataset and  CNN models to predict failures. A second simulated dataset notebook adds rate of change of process control values and a second derivative of those values.   
 Paper Machine dataset source is also listed in the notebooks.
