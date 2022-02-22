@@ -12,7 +12,9 @@ https://deeplearn.org/arxiv/48599/dataset:-rare-event-classification-in-multivar
 The dataset license details are shown in the file processminer-rare-event-mts - LICENSE.csv included from the data download site:
 "- users can share the dataset or any publication that uses the data by giving credit to the data provider. Please cite this paper, https://arxiv.org/abs/1809.10717, for the credit."
 users can distribute any additions, transformations, or changes to your dataset under this license. However, the same license needs to be added to any redistributed data. Hence, any user of the adapted dataset would likewise need to share their work with this license.
-Therefore, my work using this data is shared under the same conditions as the data license.
+Therefore, my work using this data is also shared under the same conditions as the data license.
+
+Use or application of methods included here are at the sole risk of the reader. The author takes no responsibility for application by the reader.
 
 https://arxiv.org/abs/1809.10717
 
