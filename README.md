@@ -1,5 +1,6 @@
 # Process-Fault-Identification-with-CNN
-UPDATE:  This repo is updated Feb 2022 with a new Notebook using the Paper Machine daaset. This notebook uses a slightly different CNN model, has some data corrections (apparent mislabelled samples) and a new chart methodology to present the results.  Notebook:  Paper_Machine_Sheet_Break_Subset96-3Class_w_Dates_Adamax
+UPDATE:  This repo is updated Feb 2022 with a new Notebook using the Paper Machine daaset. This notebook uses a slightly different CNN model, has some data corrections (apparent mislabelled samples) and a new chart methodology to present the results.  Notebook:  Paper_Machine_Sheet_Break_Subset96-3Class_w_Dates_Adamax.
+I have included a summary discussion of using CNN's on the paper machine dataset.
 
 This repo has a CNN models created to predict / warn of upcoming paper machine faults prior to the condition. Work in this repo began with a simulated process dataset and  CNN models to predict failures. A second simulated dataset notebook adds rate of change of process control values and a second derivative of those values.   
 Paper Machine dataset source is also listed in the notebooks.
@@ -11,8 +12,9 @@ https://deeplearn.org/arxiv/48599/dataset:-rare-event-classification-in-multivar
 
 The dataset license details are shown in the file processminer-rare-event-mts - LICENSE.csv included from the data download site:
 "- users can share the dataset or any publication that uses the data by giving credit to the data provider. Please cite this paper, https://arxiv.org/abs/1809.10717, for the credit."
-users can distribute any additions, transformations, or changes to your dataset under this license. However, the same license needs to be added to any redistributed data. Hence, any user of the adapted dataset would likewise need to share their work with this license.
-Therefore, my work using this data is also shared under the same conditions as the data license.
+- the dataset cannot be used for any commercial purposes.
+- users can distribute any additions, transformations, or changes to your dataset under this license. However, the same license needs to be added to any redistributed data." Hence, any user of the adapted dataset would likewise need to share their work with this license.
+Therefore, my work using this data is also shared under the same conditions as the data license. One cannot use the dataset or derivatives of the data for a commercial purpose.
 
 Use or application of methods included here are at the sole risk of the reader. The author takes no responsibility for application by the reader.
 
