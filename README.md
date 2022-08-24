@@ -25,10 +25,14 @@ Currently, notebooks included are:
 - One with the simulated dataset adding 'velocity' & 'acceleration' of the process control values and five warning classes plus normal and faliure classesplus normal and faliure classes.
 - One with the simulated dataset adding 'velocity' & 'acceleration' of the process control values and one warning class plus normal and failure classes
 - One with EDA on the paper machine dataset.
-- Three models with a subset of the paper machine data using the most frequent categorical feature subset.
+- Five models with a subset of the paper machine data using the most frequent categorical feature subset.
       - One uses 5 warning classes
       - One uses a single warning class and performs better than the 5 warning class model.
-      - One with a single warning class using a different CNN optimizer and a better presentation graphs
+      - One (updated) with a single warning class using a different CNN optimizer and a better presentation graphs
+      - One with features derived from feature importance using a RF model with descrete samples with positio, velocity and acceleration - the best model
+      - One with features derived from permutation importance using a RF model with descrete samples with positio, velocity and accelerationto 
+      - The feature / permutation importance notebook used to create feature lists for the above tewo models
+      - A comparison plot notebook showing difference between the custom classifier using predict_proba and the standard argmax result
 
 # Business Case
 Identifying an impending process interuption, fault or failure in advance to warn operators to take remedial action, or program the process control system to take a different action than maintaining readings within set point ranges may reduce the number of process interuptions, thus improving production and reducing costs.
